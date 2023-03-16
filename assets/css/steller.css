@@ -11166,6 +11166,7 @@ pre {
   border-radius: 0.25rem;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
+  border-radius: 10px;
 }
 
 .custom-card .card-body {
